@@ -19,7 +19,14 @@ namespace HelloC
 
 
             //Casting 
+            /*
             Casting.casting();
+             * */
+
+
+            //String Functions
+
+            StringFuncs.Strigfunc();
         }
     }
 

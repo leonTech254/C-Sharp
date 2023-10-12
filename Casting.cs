@@ -19,7 +19,7 @@ public class Casting
 		Console.WriteLine("Currency :  {0:c", 23.974);
 		Console.WriteLine("Pad with 0s: {0:d4}", 23);
 		Console.WriteLine("Pad with 0s: {0:f3}", 23.45457856433); //To Three decimal place
-		//Console.WriteLine("Pad with 0s: {0:n4}", 2345457856433); //Add commas
+		Console.WriteLine("Pad with 0s: {0:n4}", 2345457856433); //Add commas
 
 
     }
