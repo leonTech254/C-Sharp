@@ -10,5 +10,13 @@ public class CArrays
 		Console.WriteLine($"Call {b[0]}");
 		Object[] randomArray = new Object[] { 1, "Martin" };
 		Console.WriteLine(randomArray.Length);
+		
+		String[,] Students= new String[2, 2] { {"Bob","John" },{"Valentine","Jane" } };
+		Console.WriteLine(Students.GetValue(1,0));
+
+
+
+
+
 	}
 }
