@@ -18,8 +18,6 @@ Before running the project, ensure you have the following installed:
    ```bash
    git@github.com:leonTech254/C-Sharp.git
 
-
-
 # Topics Covered
 ## Console Output
 
