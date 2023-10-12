@@ -13,6 +13,9 @@ namespace HelloC
             Console.Clear();
             //Getting userInput
             UserInteraction.UserInput.AskUserName();
+
+            //Variaables
+            Variables.variables();
         }
     }
 
