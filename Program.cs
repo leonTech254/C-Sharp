@@ -16,6 +16,10 @@ namespace HelloC
 
             //Variaables
             Variables.variables();
+
+
+            //Casting 
+            Casting.casting();
         }
     }
 
