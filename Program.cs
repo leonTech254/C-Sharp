@@ -27,6 +27,9 @@ namespace HelloC
             //String Functions
 
             StringFuncs.Strigfunc();
+
+            //CArrarys
+            CArrays.cArray();
         }
     }
 
