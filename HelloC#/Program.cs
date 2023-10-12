@@ -7,6 +7,10 @@ namespace HelloC
         static void Main(string[] args)
         {
             Console.WriteLine("Hello leon");
+//changing console color
+            Console.BackgroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Clear();
         }
     }
 
