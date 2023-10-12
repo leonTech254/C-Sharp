@@ -11,7 +11,12 @@ namespace HelloC
             Console.BackgroundColor = ConsoleColor.Green;
             Console.ForegroundColor = ConsoleColor.Red;
             Console.Clear();
+            //Getting userInput
+            UserInteraction.UserInput.AskUserName();
         }
     }
 
 }
+
+
+
